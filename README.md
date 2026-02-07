@@ -30,14 +30,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=317iimf2ol6iujl5plhgdkue7kfm&count=5&unique=false" alt="Spotify recently played" />
   </a>
 </div>
-
 ---
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muratiste0705/muratiste0705/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ### Ziyaretçi Sayısı
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=muratiste0705.muratiste0705" />
