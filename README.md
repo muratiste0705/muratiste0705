@@ -1,10 +1,8 @@
 <div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/103060300?s=400&u=9a1a3e8456511509e03a9b218d055ac0e15e77b9&v=4" />
+  <img height="200" src="[https://avatars.githubusercontent.com/u/103060300?s=400&u=9a1a3e8456511509e03a9b218d055ac0e15e77b9&v=4](https://i.imgur.com/zFT58lT_d.webp?maxwidth=760&fidelity=grand)" />
 </div>
 
 <p align="center">JavaScript ile uğraşan üzgün bir çocuk</p>
-
----
 
 ## Teknolojiler
 <div align="center">
@@ -15,8 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
-
----
 
 ## Sosyal & İstatistikler
 <div align="center">
