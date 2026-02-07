@@ -2,12 +2,11 @@
   <img height="200" src="https://avatars.githubusercontent.com/u/103060300?s=400&u=9a1a3e8456511509e03a9b218d055ac0e15e77b9&v=4" />
 </div>
 
-### Merhaba
 <p align="center">JavaScript ile uğraşan üzgün bir çocuk</p>
 
 ---
 
-### İlgi Alanlarım
+## İlgi Alanları ve Teknolojiler
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
@@ -24,26 +23,32 @@
 
 ---
 
-### Spotify
+## Spotify Son Dinlediklerim
 <div align="center">
   <a href="https://open.spotify.com/user/317iimf2ol6iujl5plhgdkue7kfm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=317iimf2ol6iujl5plhgdkue7kfm&count=5&unique=false" alt="Spotify recently played" />
   </a>
 </div>
+
 ---
-### Ziyaretçi Sayısı
+
+## Ziyaretçi Sayısı
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=muratiste0705.muratiste0705" />
 </div>
 
 ---
 
-### Discord
+## Discord
 <div align="center">
   <a href="https://discord.com/users/976792621810851870" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
 </div>
 
-# 📊 WakaTime
-![WakaTime Badge](https://wakatime.com/badge/user/c31ce377-7444-4f63-be44-3905a47e2cbd.svg)
+---
+
+## WakaTime
+<div align="center">
+  <img src="https://wakatime.com/badge/user/c31ce377-7444-4f63-be44-3905a47e2cbd.svg" alt="WakaTime Badge" />
+</div>
